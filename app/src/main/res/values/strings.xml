@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ThermostatArduino</string>
+    <string name="parameted_temperature">Température paramétré :</string>
+    <string name="actual_temperature">Température actuelle :</string>
+    <string name="temperature">%d °C</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="no_bluetooth">Votre téléphone ne supporte pas le bluetooth. L\'application va donc se terminer.</string>
+    <string name="fermer">Fermer</string>
+    <string name="bt_not_enabled">Votre bluetooth n\'est pas activé. L\'application va se terminer.</string>
+</resources>
